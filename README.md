@@ -1,3 +1,3 @@
-MustHave 데싸노트의 실전에서 통하는 머신러닝
-Nuclei segmentation
+MustHave 데싸노트의 실전에서 통하는 머신러닝<br>
+Nuclei segmentation<br>
 CS231n
